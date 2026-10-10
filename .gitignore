@@ -8,3 +8,4 @@ exports/
 *.bak
 gui.v1.py
 gui.v2_cards.py
+installer/
