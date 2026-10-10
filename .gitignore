@@ -1,0 +1,10 @@
+__pycache__/
+build/
+dist/
+scratch/
+# resolved download links carry expiring tokens
+exports/
+# superseded local copies of the GUI
+*.bak
+gui.v1.py
+gui.v2_cards.py
